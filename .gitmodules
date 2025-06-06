@@ -7,3 +7,6 @@
 [submodule "notebooks"]
 	path = notebooks
 	url = https://huggingface.co/agents-course/notebooks
+[submodule "First_Agent_Template"]
+	path = First_Agent_Template
+	url = https://huggingface.co/spaces/sahil-datascience/First_agent_template
