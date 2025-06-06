@@ -1,0 +1,9 @@
+[submodule "agents-course"]
+	path = agents-course
+	url = https://github.com/huggingface/agents-course.git
+[submodule "Final_Assignment_Template"]
+	path = Final_Assignment_Template
+	url = https://huggingface.co/spaces/sahil-datascience/Final_Assignment_Template
+[submodule "notebooks"]
+	path = notebooks
+	url = https://huggingface.co/agents-course/notebooks
